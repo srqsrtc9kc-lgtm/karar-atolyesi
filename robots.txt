@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://srqsrtc9kc-lgtm.github.io/karar-atolyesi/sitemap.xml
